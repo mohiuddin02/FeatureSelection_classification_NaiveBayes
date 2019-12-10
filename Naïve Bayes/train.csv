@@ -1,0 +1,152 @@
+Port Name,State,Measure,Border
+Sumas,Washington,Trucks,positive
+Tornillo-Fabens,Texas,Personal Vehicle Passengers,negative
+Jackman,Maine,Truck Containers Empty,positive
+Calexico East,California,Train Passengers,negative
+El Paso,Texas,Rail Containers Full,negative
+Port Angeles,Washington,Truck Containers Empty,positive
+Progreso,Texas,Pedestrians,negative
+Port Angeles,Washington,Truck Containers Full,positive
+San Luis,Arizona,Trucks,negative
+Rio Grande City,Texas,Trucks,negative
+Nogales,Arizona,Pedestrians,negative
+Sumas,Washington,Trains,positive
+Danville,Washington,Truck Containers Empty,positive
+Nighthawk,Washington,Personal Vehicle Passengers,positive
+Warroad,Minnesota,Personal Vehicles,positive
+Roma,Texas,Trucks,negative
+Champlain-Rouses Point,New York,Trains,positive
+Opheim,Montana,Trucks,positive
+Massena,New York,Buses,positive
+Roseau,Minnesota,Truck Containers Empty,positive
+Frontier,Washington,Personal Vehicles,positive
+Wildhorse,Montana,Trucks,positive
+Progreso,Texas,Truck Containers Full,negative
+Van Buren,Maine,Truck Containers Empty,positive
+Van Buren,Maine,Rail Containers Empty,positive
+Naco,Arizona,Personal Vehicle Passengers,negative
+Whitlash,Montana,Personal Vehicle Passengers,positive
+Maida,North Dakota,Truck Containers Empty,positive
+Santa Teresa,New Mexico,Trucks,negative
+Sweetgrass,Montana,Truck Containers Empty,positive
+Dunseith,North Dakota,Truck Containers Full,positive
+Turner,Montana,Pedestrians,positive
+Fort Fairfield,Maine,Truck Containers Empty,positive
+Highgate Springs-Alburg,Vermont,Rail Containers Full,positive
+Port Huron,Michigan,Bus Passengers,positive
+Laurier,Washington,Buses,positive
+Sarles,North Dakota,Bus Passengers,positive
+Calais,Maine,Truck Containers Full,positive
+Limestone,Maine,Trucks,positive
+Derby Line,Vermont,Trucks,positive
+Grand Portage,Minnesota,Trucks,positive
+Naco,Arizona,Personal Vehicles,negative
+Pinecreek,Minnesota,Truck Containers Full,positive
+Andrade,California,Personal Vehicles,negative
+Hidalgo,Texas,Personal Vehicle Passengers,negative
+Richford,Vermont,Personal Vehicle Passengers,positive
+Point Roberts,Washington,Truck Containers Empty,positive
+Vanceboro,Maine,Rail Containers Full,positive
+Roma,Texas,Truck Containers Full,negative
+Calais,Maine,Truck Containers Empty,positive
+Northgate,North Dakota,Trains,positive
+Oroville,Washington,Pedestrians,positive
+Maida,North Dakota,Personal Vehicles,positive
+Nogales,Arizona,Trucks,negative
+Eagle Pass,Texas,Pedestrians,negative
+Del Bonita,Montana,Pedestrians,positive
+Sweetgrass,Montana,Buses,positive
+Nogales,Arizona,Buses,negative
+Champlain-Rouses Point,New York,Pedestrians,positive
+Jackman,Maine,Truck Containers Full,positive
+Wildhorse,Montana,Personal Vehicles,positive
+San Luis,Arizona,Truck Containers Full,negative
+Piegan,Montana,Truck Containers Full,positive
+Port Angeles,Washington,Bus Passengers,positive
+Oroville,Washington,Bus Passengers,positive
+Trout River,New York,Trains,positive
+Progreso,Texas,Personal Vehicle Passengers,negative
+Frontier,Washington,Pedestrians,positive
+Eastport,Maine,Trucks,positive
+El Paso,Texas,Pedestrians,negative
+El Paso,Texas,Rail Containers Empty,negative
+International Falls-Ranier,Minnesota,Personal Vehicle Passengers,positive
+Boundary,Washington,Trains,positive
+Blaine,Washington,Truck Containers Full,positive
+Derby Line,Vermont,Personal Vehicle Passengers,positive
+Detroit,Michigan,Rail Containers Empty,positive
+Laurier,Washington,Train Passengers,positive
+Highgate Springs-Alburg,Vermont,Personal Vehicles,positive
+Baudette,Minnesota,Truck Containers Empty,positive
+Otay Mesa,California,Train Passengers,negative
+Port Huron,Michigan,Buses,positive
+St. John,North Dakota,Personal Vehicle Passengers,positive
+Sherwood,North Dakota,Truck Containers Full,positive
+Baudette,Minnesota,Buses,positive
+Hidalgo,Texas,Bus Passengers,negative
+Carbury,North Dakota,Bus Passengers,positive
+Douglas,Arizona,Bus Passengers,negative
+San Ysidro,California,Personal Vehicle Passengers,negative
+Houlton,Maine,Trucks,positive
+Walhalla,North Dakota,Truck Containers Empty,positive
+Point Roberts,Washington,Truck Containers Full,positive
+Trout River,New York,Trucks,positive
+Neche,North Dakota,Truck Containers Full,positive
+Danville,Washington,Personal Vehicles,positive
+Portal,North Dakota,Bus Passengers,positive
+Roseau,Minnesota,Personal Vehicle Passengers,positive
+Nogales,Arizona,Truck Containers Full,negative
+El Paso,Texas,Personal Vehicle Passengers,negative
+San Ysidro,California,Pedestrians,negative
+Calais,Maine,Buses,positive
+Eastport,Maine,Pedestrians,positive
+Buffalo-Niagara Falls,New York,Pedestrians,positive
+Danville,Washington,Personal Vehicle Passengers,positive
+Detroit,Michigan,Bus Passengers,positive
+Columbus,New Mexico,Personal Vehicle Passengers,negative
+Houlton,Maine,Truck Containers Empty,positive
+Brownsville,Texas,Trains,negative
+Naco,Arizona,Trucks,negative
+Rio Grande City,Texas,Personal Vehicle Passengers,negative
+Champlain-Rouses Point,New York,Truck Containers Empty,positive
+Bridgewater,Maine,Truck Containers Full,positive
+Grand Portage,Minnesota,Buses,positive
+Frontier,Washington,Truck Containers Empty,positive
+Brownsville,Texas,Rail Containers Full,negative
+El Paso,Texas,Trucks,negative
+Champlain-Rouses Point,New York,Rail Containers Full,positive
+El Paso,Texas,Personal Vehicles,negative
+Sweetgrass,Montana,Personal Vehicle Passengers,positive
+Noonan,North Dakota,Truck Containers Full,positive
+Hidalgo,Texas,Personal Vehicles,negative
+Presidio,Texas,Personal Vehicle Passengers,negative
+Derby Line,Vermont,Personal Vehicles,positive
+Brownsville,Texas,Personal Vehicle Passengers,negative
+Van Buren,Maine,Truck Containers Full,positive
+Norton,Vermont,Personal Vehicle Passengers,positive
+Piegan,Montana,Personal Vehicles,positive
+Alexandria Bay,New York,Truck Containers Full,positive
+Westhope,North Dakota,Truck Containers Empty,positive
+San Ysidro,California,Personal Vehicles,negative
+Point Roberts,Washington,Trucks,positive
+Oroville,Washington,Truck Containers Empty,positive
+Douglas,Arizona,Personal Vehicle Passengers,negative
+Laurier,Washington,Trucks,positive
+Ogdensburg,New York,Personal Vehicle Passengers,positive
+Fort Kent,Maine,Personal Vehicle Passengers,positive
+Douglas,Arizona,Truck Containers Empty,negative
+Pinecreek,Minnesota,Trucks,positive
+Baudette,Minnesota,Pedestrians,positive
+Boundary,Washington,Pedestrians,positive
+Brownsville,Texas,Truck Containers Empty,negative
+Eagle Pass,Texas,Bus Passengers,negative
+Raymond,Montana,Pedestrians,positive
+Hidalgo,Texas,Truck Containers Empty,negative
+Antler,North Dakota,Truck Containers Empty,positive
+Santa Teresa,New Mexico,Buses,negative
+Madawaska,Maine,Pedestrians,positive
+Anacortes,Washington,Personal Vehicle Passengers,positive
+Maida,North Dakota,Bus Passengers,positive
+Del Rio,Texas,Pedestrians,negative
+Baudette,Minnesota,Personal Vehicle Passengers,positive
+Opheim,Montana,Truck Containers Empty,positive

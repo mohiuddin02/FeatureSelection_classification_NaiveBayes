@@ -1,0 +1,150 @@
+,Port Name,State,Measure,Border,predictions
+0,Calexico East,California,Trucks,negative,Not Predicted
+1,Van Buren,Maine,Rail Containers Full,positive,Predicted
+2,Otay Mesa,California,Trucks,negative,Not Predicted
+3,Nogales,Arizona,Trains,negative,Not Predicted
+4,Trout River,New York,Personal Vehicle Passengers,positive,Predicted
+5,Madawaska,Maine,Trucks,positive,Predicted
+6,Pembina,North Dakota,Bus Passengers,positive,Predicted
+7,Progreso,Texas,Truck Containers Empty,negative,Not Predicted
+8,Portal,North Dakota,Rail Containers Empty,positive,Predicted
+9,Champlain-Rouses Point,New York,Trucks,positive,Predicted
+10,Opheim,Montana,Personal Vehicles,positive,Predicted
+11,Neche,North Dakota,Trucks,positive,Predicted
+12,Lancaster,Minnesota,Personal Vehicles,positive,Predicted
+13,Derby Line,Vermont,Buses,positive,Predicted
+14,Sarles,North Dakota,Personal Vehicle Passengers,positive,Predicted
+15,Wildhorse,Montana,Truck Containers Full,positive,Predicted
+16,Derby Line,Vermont,Truck Containers Full,positive,Predicted
+17,Lynden,Washington,Pedestrians,positive,Predicted
+18,Vanceboro,Maine,Pedestrians,positive,Predicted
+19,San Ysidro,California,Bus Passengers,negative,Not Predicted
+20,Scobey,Montana,Personal Vehicles,positive,Predicted
+21,Beecher Falls,Vermont,Trucks,positive,Predicted
+22,Calais,Maine,Train Passengers,positive,Predicted
+23,Massena,New York,Truck Containers Full,positive,Predicted
+24,Oroville,Washington,Buses,positive,Predicted
+25,Hansboro,North Dakota,Truck Containers Full,positive,Predicted
+26,Ferry,Washington,Personal Vehicles,positive,Predicted
+27,Pembina,North Dakota,Trucks,positive,Predicted
+28,Tecate,California,Truck Containers Empty,negative,Not Predicted
+29,Eastport,Idaho,Trains,positive,Predicted
+30,Walhalla,North Dakota,Personal Vehicles,positive,Predicted
+31,Calais,Maine,Trains,positive,Predicted
+32,Roma,Texas,Truck Containers Empty,negative,Not Predicted
+33,Naco,Arizona,Truck Containers Empty,negative,Not Predicted
+34,Boquillas,Texas,Pedestrians,negative,Not Predicted
+35,Raymond,Montana,Buses,positive,Predicted
+36,Porthill,Idaho,Truck Containers Empty,positive,Predicted
+37,Norton,Vermont,Personal Vehicles,positive,Predicted
+38,Sault Sainte Marie,Michigan,Truck Containers Empty,positive,Predicted
+39,Antler,North Dakota,Truck Containers Full,positive,Predicted
+40,Otay Mesa,California,Personal Vehicles,negative,Not Predicted
+41,Eastport,Idaho,Pedestrians,positive,Predicted
+42,Rio Grande City,Texas,Pedestrians,negative,Not Predicted
+43,Portal,North Dakota,Trains,positive,Predicted
+44,Del Rio,Texas,Truck Containers Full,negative,Not Predicted
+45,Sasabe,Arizona,Personal Vehicle Passengers,negative,Not Predicted
+46,Sault Sainte Marie,Michigan,Truck Containers Full,positive,Predicted
+47,Highgate Springs-Alburg,Vermont,Trains,positive,Predicted
+48,Madawaska,Maine,Personal Vehicle Passengers,positive,Predicted
+49,Sasabe,Arizona,Pedestrians,negative,Not Predicted
+50,Del Bonita,Montana,Truck Containers Full,positive,Predicted
+51,Vanceboro,Maine,Personal Vehicles,positive,Predicted
+52,Neche,North Dakota,Buses,positive,Predicted
+53,Houlton,Maine,Truck Containers Full,positive,Predicted
+54,Norton,Vermont,Trains,positive,Predicted
+55,Del Rio,Texas,Personal Vehicle Passengers,negative,Not Predicted
+56,Houlton,Maine,Bus Passengers,positive,Predicted
+57,Metaline Falls,Washington,Personal Vehicles,positive,Predicted
+58,Houlton,Maine,Personal Vehicles,positive,Predicted
+59,Sault Sainte Marie,Michigan,Personal Vehicles,positive,Predicted
+60,Fort Fairfield,Maine,Personal Vehicles,positive,Predicted
+61,Noonan,North Dakota,Bus Passengers,positive,Predicted
+62,Westhope,North Dakota,Trucks,positive,Predicted
+63,Van Buren,Maine,Personal Vehicles,positive,Predicted
+64,Massena,New York,Truck Containers Empty,positive,Predicted
+65,Blaine,Washington,Trucks,positive,Predicted
+66,Douglas,Arizona,Trucks,negative,Not Predicted
+67,Port Huron,Michigan,Rail Containers Full,positive,Predicted
+68,Champlain-Rouses Point,New York,Truck Containers Full,positive,Predicted
+69,Champlain-Rouses Point,New York,Personal Vehicles,positive,Predicted
+70,Nogales,Arizona,Truck Containers Empty,negative,Not Predicted
+71,Scobey,Montana,Truck Containers Full,positive,Predicted
+72,Del Bonita,Montana,Personal Vehicles,positive,Predicted
+73,Bridgewater,Maine,Truck Containers Empty,positive,Predicted
+74,Santa Teresa,New Mexico,Personal Vehicle Passengers,negative,Not Predicted
+75,Otay Mesa,California,Buses,negative,Not Predicted
+76,San Ysidro,California,Buses,negative,Not Predicted
+77,Nogales,Arizona,Bus Passengers,negative,Not Predicted
+78,Lukeville,Arizona,Personal Vehicles,negative,Not Predicted
+79,Roseau,Minnesota,Personal Vehicles,positive,Predicted
+80,Skagway,Alaska,Personal Vehicle Passengers,positive,Predicted
+81,Fortuna,North Dakota,Truck Containers Empty,positive,Predicted
+82,Frontier,Washington,Trucks,positive,Predicted
+83,Vanceboro,Maine,Trains,positive,Predicted
+84,Baudette,Minnesota,Bus Passengers,positive,Predicted
+85,Sarles,North Dakota,Buses,positive,Predicted
+86,Fort Kent,Maine,Bus Passengers,positive,Predicted
+87,Grand Portage,Minnesota,Truck Containers Full,positive,Predicted
+88,Buffalo-Niagara Falls,New York,Train Passengers,positive,Predicted
+89,Calexico,California,Pedestrians,negative,Not Predicted
+90,Massena,New York,Personal Vehicle Passengers,positive,Predicted
+91,Otay Mesa,California,Pedestrians,negative,Not Predicted
+92,Pinecreek,Minnesota,Truck Containers Empty,positive,Predicted
+93,Calexico East,California,Truck Containers Full,negative,Not Predicted
+94,Otay Mesa,California,Truck Containers Full,negative,Not Predicted
+95,Otay Mesa,California,Truck Containers Empty,negative,Not Predicted
+96,Douglas,Arizona,Truck Containers Full,negative,Not Predicted
+97,Grand Portage,Minnesota,Personal Vehicle Passengers,positive,Predicted
+98,Northgate,North Dakota,Pedestrians,positive,Predicted
+99,Port Huron,Michigan,Rail Containers Empty,positive,Predicted
+100,Sarles,North Dakota,Truck Containers Full,positive,Predicted
+101,Pembina,North Dakota,Personal Vehicles,positive,Predicted
+102,Sherwood,North Dakota,Truck Containers Empty,positive,Predicted
+103,Laurier,Washington,Truck Containers Full,positive,Predicted
+104,Santa Teresa,New Mexico,Truck Containers Full,negative,Not Predicted
+105,Beecher Falls,Vermont,Truck Containers Empty,positive,Predicted
+106,Del Rio,Texas,Buses,negative,Not Predicted
+107,Trout River,New York,Rail Containers Empty,positive,Predicted
+108,Calexico East,California,Personal Vehicles,negative,Not Predicted
+109,Detroit,Michigan,Truck Containers Full,positive,Predicted
+110,Jackman,Maine,Buses,positive,Predicted
+111,Tecate,California,Personal Vehicles,negative,Not Predicted
+112,Skagway,Alaska,Personal Vehicles,positive,Predicted
+113,Ambrose,North Dakota,Personal Vehicle Passengers,positive,Predicted
+114,Turner,Montana,Trucks,positive,Predicted
+115,Fort Kent,Maine,Buses,positive,Predicted
+116,Porthill,Idaho,Trucks,positive,Predicted
+117,Wildhorse,Montana,Personal Vehicle Passengers,positive,Predicted
+118,Dunseith,North Dakota,Trucks,positive,Predicted
+119,Rio Grande City,Texas,Truck Containers Empty,negative,Not Predicted
+120,Walhalla,North Dakota,Truck Containers Full,positive,Predicted
+121,Boundary,Washington,Truck Containers Empty,positive,Predicted
+122,Sumas,Washington,Personal Vehicle Passengers,positive,Predicted
+123,Sarles,North Dakota,Truck Containers Empty,positive,Predicted
+124,Fortuna,North Dakota,Personal Vehicle Passengers,positive,Predicted
+125,Bridgewater,Maine,Personal Vehicles,positive,Predicted
+126,Ambrose,North Dakota,Personal Vehicles,positive,Predicted
+127,Buffalo-Niagara Falls,New York,Trucks,positive,Predicted
+128,Sault Sainte Marie,Michigan,Train Passengers,positive,Predicted
+129,Eastport,Idaho,Train Passengers,positive,Predicted
+130,Douglas,Arizona,Personal Vehicles,negative,Not Predicted
+131,Vanceboro,Maine,Truck Containers Empty,positive,Predicted
+132,Trout River,New York,Personal Vehicles,positive,Predicted
+133,Buffalo-Niagara Falls,New York,Personal Vehicle Passengers,positive,Predicted
+134,Grand Portage,Minnesota,Truck Containers Empty,positive,Predicted
+135,Alexandria Bay,New York,Personal Vehicles,positive,Predicted
+136,Eagle Pass,Texas,Trains,negative,Not Predicted
+137,Portal,North Dakota,Personal Vehicles,positive,Predicted
+138,Sumas,Washington,Truck Containers Full,positive,Predicted
+139,Carbury,North Dakota,Personal Vehicle Passengers,positive,Predicted
+140,Boundary,Washington,Trucks,positive,Predicted
+141,Massena,New York,Personal Vehicles,positive,Predicted
+142,Carbury,North Dakota,Truck Containers Empty,positive,Predicted
+143,Jackman,Maine,Personal Vehicle Passengers,positive,Predicted
+144,Sweetgrass,Montana,Trains,positive,Predicted
+145,Trout River,New York,Truck Containers Full,positive,Predicted
+146,Calais,Maine,Rail Containers Full,positive,Predicted
+147,Piegan,Montana,Personal Vehicle Passengers,positive,Predicted
+148,Northgate,North Dakota,Truck Containers Empty,positive,Predicted
